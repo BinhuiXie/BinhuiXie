@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a researcher in computer vision and machine learning. I am interested in *transfer and data-efficient learning*. See my [HomePage](https://binhuixie.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=cbVMMCwAAAAJ) for more about me and my research. :)
+I am a researcher in computer vision and machine learning. My current interests are in *transfer learning* and *data-efficient learning* (particularly domain adaptation, active learning) and *self-supervised learning* across visual tasks and domains. 
+
+See my [HomePage](https://binhuixie.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=cbVMMCwAAAAJ) for more about me and my research. :)
 
 <!--
 **BinhuiXie/BinhuiXie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
